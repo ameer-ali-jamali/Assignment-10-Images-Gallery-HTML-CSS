@@ -1,4 +1,8 @@
-  @font-face {
+
+.container {
+  position: relative;
+}
+@font-face {
     font-family: "myMuli";
     src: url("./fonts/Mulish-ExtraBold.ttf");
   }
@@ -62,9 +66,7 @@
     margin-left: 40%;
   }
   
-  .container {
-    position: relative;
-  }
+  
   .text-box {
     position: absolute;
   }
@@ -80,7 +82,7 @@
     color: #f89f02;
   }
   
-  .box2 {
+  .nav-container{
     position: absolute;
     margin-top: 10px;
     margin-left: 51px;
