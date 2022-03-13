@@ -6,8 +6,6 @@ nav {
   text-align: center;
   border: solid brown 1px;
   display: flex;
-  /* justify-content: center; */
-  
 }
 a{
     display: inline;
