@@ -4,15 +4,27 @@
 }
 nav {
   text-align: center;
+  border: solid brown 1px;
+  display: flex;
+  /* justify-content: center; */
+  
 }
-button {
+a{
     display: inline;
-    border: none;
-    margin-left: 32px;
-    background-color: #0f2421;
+    font-size: xx-small;
+    background-color: #3a4639;
     color: white;
-    padding: 6px;
-} 
+    border: solid black 1px;
+    padding: 9px;
+    margin: -12px;
+    flex: 1;
+    margin-top: -9px;
+    text-decoration: none;
+    text-align: center;
+}
+body{
+    font-size: 10px;
+}
 button:hover {
     background-color: rgb(79 205 79);
     color: honeydew;
@@ -39,6 +51,7 @@ img {
 img:hover {
     transition: 2s;
     transform: scale(1.9, 1.8) rotate(360deg);
+
   }
   
 
