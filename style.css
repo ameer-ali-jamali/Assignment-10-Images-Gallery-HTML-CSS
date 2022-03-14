@@ -40,10 +40,6 @@ p{
     flex: 1;
 }
 
-p:hover{
-    color: chartreuse;
-    background-color: cornflowerblue;
-}
 img {
     margin-top: auto;
     object-fit: cover;
