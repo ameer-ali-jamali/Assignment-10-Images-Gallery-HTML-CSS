@@ -1,2 +1,1 @@
-# Assignment-11-create-responsive-website-page-html-css
-with-grid-layout
+Image Gallery and Navbar using Grid in html css. 
